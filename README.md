@@ -28,4 +28,4 @@
 
 ---
 
-🔗 [LinkedIn]([Connect with me on LinkedIn](https://www.linkedin.com/in/zachary-willis-109065327) | [Email Me](zacharyw04@gmail.com)
+🔗 ([Connect with me on LinkedIn](https://www.linkedin.com/in/zachary-willis-109065327) | [Email me](mailto:zacharyw04@gmail.com)
