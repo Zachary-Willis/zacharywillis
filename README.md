@@ -28,4 +28,4 @@
 
 ---
 
-🔗 [LinkedIn](www.linkedin.com/in/zachary-willis-109065327) | [Email Me](zacharyw04@gmail.com)
+🔗 [LinkedIn]([![LinkedIn](https://raw.githubusercontent.com/zacharywillis/your-repo-name/main/linkedin.png)](https://www.linkedin.com/in/zachary-willis-109065327)) | [Email Me](zacharyw04@gmail.com)
